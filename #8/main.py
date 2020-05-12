@@ -333,8 +333,8 @@ print (calculate_gardes_info(grades))
 #print (type(calculate_gardes_info(grades)))
 
 
-min, max, avg = calculate_gardes_info(grades)
-print (min, max, avg)
+min1, max1, avg1 = calculate_gardes_info(grades)
+print (min1, max1, avg1)
 
 
 
